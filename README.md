@@ -15,6 +15,11 @@ python3 docscanner.py
 * Scanned image will be stored in the directory from where script will run.
 
 
+## How it works :
+
+![Original Image ](https://raw.githubusercontent.com/royalbhati/DocumentScanner/master/receipt.jpg)
+
+
 
 
 ## Requirements
