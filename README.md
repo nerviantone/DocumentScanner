@@ -1,7 +1,7 @@
 # DocumentScanner
 Document Scanner using OpenCV
 
-##Usage:
+## Usage:
 
 * Run the script 
 
@@ -17,7 +17,7 @@ python3 docscanner.py
 
 
 
-##Requirements
+## Requirements
 
 * OpenCV
 * Skimage
