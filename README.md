@@ -22,6 +22,9 @@ python3 docscanner.py
 
 ![Intermediate Image](https://raw.githubusercontent.com/royalbhati/DocumentScanner/master/intermediate.png)
 
+
+**Here is the Final Scanned Image**
+
 ![Scanned Image ](https://raw.githubusercontent.com/royalbhati/DocumentScanner/master/01.png)
 
 
