@@ -17,7 +17,16 @@ python3 docscanner.py
 
 ## How it works :
 
+
 ![Original Image ](https://raw.githubusercontent.com/royalbhati/DocumentScanner/master/receipt.jpg)
+
+![Intermediate Image](https://raw.githubusercontent.com/royalbhati/DocumentScanner/master/intermediate.png)
+
+![Scanned Image ](https://raw.githubusercontent.com/royalbhati/DocumentScanner/master/01.png)
+
+
+
+
 
 
 
